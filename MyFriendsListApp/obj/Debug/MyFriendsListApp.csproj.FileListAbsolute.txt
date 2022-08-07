@@ -1,0 +1,11 @@
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\bin\Debug\MyFriendsListApp.exe.config
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\bin\Debug\MyFriendsListApp.exe
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\bin\Debug\MyFriendsListApp.pdb
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\obj\Debug\MyFriendsListApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\obj\Debug\MyFriendsListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\obj\Debug\MyFriendsListApp.Form1.resources
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\obj\Debug\MyFriendsListApp.Properties.Resources.resources
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\obj\Debug\MyFriendsListApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\obj\Debug\MyFriendsListApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\obj\Debug\MyFriendsListApp.exe
+C:\Users\theav\source\repos\MyFriendsListApp\MyFriendsListApp\obj\Debug\MyFriendsListApp.pdb
